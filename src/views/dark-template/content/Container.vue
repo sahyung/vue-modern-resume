@@ -7,7 +7,7 @@
       <content-section
         title="Who am I?"
       >
-        I'm a developer born in Kediri, East Java who have been working as PHP Programmer since 2010.<br>
+        I'm a backend developer born in Kediri, East Java who have been working as PHP Programmer since 2010.<br>
         I'm interested and skilled in different topics of Information Technology including programming, web development, and computer and network security.
       </content-section>
       <content-section
@@ -140,7 +140,7 @@ export default {
       {
         icon  : 'mdi-account-heart',
         text  : 'Reliable and trusted by clients.',
-        source: '(Whilst some freelancers go AWOL when things gets tough, I always work it through the end)',
+        source: '(Whilst some freelancers go AWOL when things gets tough, I always work it through to the end)',
       },
       {
         icon  : 'mdi-star',
@@ -210,7 +210,7 @@ export default {
         value: 46,
       },
       {
-        title: 'Continuous Integration / Continuous Delivery',
+        title: 'Continuous Integration/Continuous Delivery',
         icon : 'mdi-truck-fast',
         value: 35,
       },
