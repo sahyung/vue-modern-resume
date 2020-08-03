@@ -97,12 +97,12 @@ export default {
           title: 'SOCIALS',
           items: [
             {
-              icon: 'mdi-github-circle',
+              icon: 'mdi-github',
               text: 'github.com/sahyung',
               link: 'https://github.com/sahyung',
             },
             {
-              icon: 'mdi-linkedin-box',
+              icon: 'mdi-linkedin',
               text: 'linkedin.com/in/sahyung',
               link: 'https://linkedin.com/in/sahyung',
             },
@@ -137,7 +137,7 @@ export default {
               text: 'Hacking Stuffs',
             },
             {
-              icon: 'mdi-image-outline',
+              icon: 'mdi-draw',
               text: 'Drawing',
             },
             {

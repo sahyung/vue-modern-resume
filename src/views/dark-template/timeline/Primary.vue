@@ -183,7 +183,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/tsel-icon.png',
+        iconImage: './img/timeline/tsel-icon.png',
       },
       {
         detailed   : true,
@@ -207,7 +207,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/tsel-icon.png',
+        iconImage: './img/timeline/tsel-icon.png',
       },
       {
         detailed   : true,
@@ -231,7 +231,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/tsel-icon.png',
+        iconImage: './img/timeline/tsel-icon.png',
       },
       {
         detailed   : true,
@@ -258,7 +258,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/tsel-icon.png',
+        iconImage: './img/timeline/tsel-icon.png',
       },
       {
         detailed   : true,
@@ -285,7 +285,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/indosat-icon.ico',
+        iconImage: './img/timeline/indosat-icon.ico',
       },
       {
         detailed   : true,
@@ -311,7 +311,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/iri-icon.ico',
+        iconImage: './img/timeline/iri-icon.ico',
       },
       {
         year : '2013 - 17',
@@ -333,8 +333,8 @@ export default {
                     </ul>
                 </p>
         `,
-        image    : 'img/timeline/247.jpg',
-        iconImage: 'img/timeline/247-icon.png',
+        image    : './img/timeline/247.jpg',
+        iconImage: './img/timeline/247-icon.png',
       },
       {
         detailed   : true,
@@ -375,7 +375,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/heolys-icon.png',
+        iconImage: './img/timeline/heolys-icon.png',
       },
       {
         detailed   : true,
@@ -400,7 +400,7 @@ export default {
                 </ul>
             </p>
         `,
-        iconImage: 'img/timeline/solene-icon.png',
+        iconImage: './img/timeline/solene-icon.png',
       },
       {
         detailed   : true,
@@ -426,8 +426,8 @@ export default {
                 </ul>
             </p>
         `,
-        image    : 'img/timeline/btwn.png',
-        iconImage: 'img/timeline/btwn-icon.jpg',
+        image    : './img/timeline/btwn.png',
+        iconImage: './img/timeline/btwn-icon.jpg',
       },
       {
         year : '2017 - 20',
@@ -448,8 +448,8 @@ export default {
                     </ul>
                 </p>
         `,
-        image    : 'img/timeline/mindo.jpg',
-        iconImage: 'img/timeline/mindo-icon.png',
+        image    : './img/timeline/mindo.jpg',
+        iconImage: './img/timeline/mindo-icon.png',
       },
     ],
   }),
