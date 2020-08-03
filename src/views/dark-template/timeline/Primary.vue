@@ -130,345 +130,326 @@ export default {
       {
         detailed   : true,
         transparent: true,
-        year       : '1996',
-        title      : 'Born on Dec 7, 1996',
+        year       : '1990',
+        title      : 'Born on August 17, 1990',
         html       : 'With a chance of %0.00000000000512.<br>I\'m completely aware of value of the life!',
         icon       : 'mdi-cake-variant',
       },
       {
         detailed   : true,
         transparent: true,
-        year       : '2003',
+        year       : '2004',
         title      : 'Touched a Mouse',
         html       : 'ME: "Woooow!"<br><i>... Of course got slapped later!</i>',
         icon       : 'mdi-mouse-variant',
       },
       {
         detailed   : true,
-        year       : '2009',
+        year       : '2010',
         transparent: true,
-        title      : 'Started an7.mahblog.com',
+        title      : 'Started as a freelancer on my second year in college',
+        icon       : 'mdi-web',
         html       : `
                 <p>
-                    I'm still emotional about this one. It was August 9, 2009 that I decided to start blogging so <a target="_blank" href="https://web.archive.org/web/20090819185659/http://an7.mahblog.com/">an7.mahblog.com</a> has just showed up! Years later, Mahblog.com got censored in Iran and my blog disappeared. <a target="_blank" href="https://web.archive.org/web/20120626234739/http://www.an7.mahblog.com/">Last archived page</a> was on June 26, 2012.
+                    It was November 19, 2010 that one of my profesor asked me to assist his nephew doing his thesis.
                 </p>
                 <p>
-                    Back then, my blog used to get more than 500 visitors/day and its Page Rank has reached to level 2 which was actually great! Rest In Peace an7 ...
+                    Since then, I'm doing freelance work to support my college tuition.
+                </p>
+        `,
+      },
+      {
+        detailed   : true,
+        year       : '2013',
+        transparent: true,
+        title      : 'New Revass Tool',
+        html       : `
+            <p>
+                Role: Developer.<br />
+                Client: <a href="https://www.telkomsel.com">PT. Telekomunikasi Seluler .Tbk</a>.<br />
+            </p>
+            <p>
+                Project Description:<br />
+                The project's goal is to supports Telkomsel’s Revenue Assurance division.<br />
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Create Hgrid Workflow.</li>
+                  <li>Developing application based on business analyst.</li>
+                  <li>Create Running Script.</li>
+                  <li>Developing with Shellscript.</li>
+                  <li>Monitors application execution and resolves issues on application development.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: 'img/timeline/tsel-icon.png',
+      },
+      {
+        detailed   : true,
+        year       : '2014',
+        transparent: true,
+        title      : 'REDBRICK',
+        html       : `
+            <p>
+                Role: Developer.<br />
+                Client: <a href="https://www.telkomsel.com">PT. Telekomunikasi Seluler .Tbk</a>.<br />
+            </p>
+            <p>
+                Project Description:<br />
+                Red Brick is an early implementation of Revenue Assurance at Telkomsel. Its goals are to ensure billing data (prepaid & post paid) processing accuracy, and to avoid or minimize revenue leakage.<br />
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Create Hgrid Workflow.</li>
+                  <li>Developing application based on business analyst.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: 'img/timeline/tsel-icon.png',
+      },
+      {
+        detailed   : true,
+        year       : '2015',
+        transparent: true,
+        title      : 'DIAMOND Stock Health Check Index (SHCI)',
+        html       : `
+            <p>
+                Role: Developer.<br />
+                Client: <a href="https://www.telkomsel.com">PT. Telekomunikasi Seluler .Tbk</a>.<br />
+            </p>
+            <p>
+                Project Description:<br />
+                In 2015, Telkomsel has limited distribution in term of SIM card and Sales Area. It is expected to be more effective to deliver SIM card to end user. Furthermore, the parameter of effective sales is if there are usage and or recharge from new sales activation. Additionally, we need to define parameter of sales effectiveness to ensure quality of SHCI subscriber. Moreover, SHCI is a mechanism to grouping category of sales base on usage and recharge to determine quality of sales.<br />
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Create Hgrid Workflow.</li>
+                  <li>Developing application based on business analyst.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: 'img/timeline/tsel-icon.png',
+      },
+      {
+        detailed   : true,
+        year       : '2015 - 17',
+        transparent: true,
+        title      : 'DIAMOND OMS - DSI POI',
+        html       : `
+            <p>
+                Role: Developer Analyst.<br />
+                Client: <a href="https://www.telkomsel.com">PT. Telekomunikasi Seluler .Tbk</a>.<br />
+            </p>
+            <p>
+                Project Description:<br />
+                Increasing revenue & CB is not only about prepaid but also post paid. Compared to others competitor, Telkomsel post paid performance is outstanding. Growth and market share is dominant. Our challenge is internal target itself, we have to reach double digit growth. Using BAU channel & selling method is not enough. Remove barrier that post paid is identic with difficulties of apply and Grapari channel. Post paid have to easy to get & easy to use, that’s why kartu Halo have to go retail with great supporting tools & system.<br />
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Create Hgrid Workflow.</li>
+                  <li>Developing application based on business analyst.</li>
+                  <li>Create Running Script.</li>
+                  <li>Developing with Shellscript.</li>
+                  <li>Monitors application execution and resolves issues on application development.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: 'img/timeline/tsel-icon.png',
+      },
+      {
+        detailed   : true,
+        year       : '2016 - 17',
+        transparent: true,
+        title      : 'HDPISAT – Subscriber (Source Check & Validation Subs, CVM)',
+        html       : `
+            <p>
+                Role: Developer.<br />
+                Client: <a href="https://indosatooredoo.com">PT. Indosat .Tbk</a>.<br />
+            </p>
+            <p>
+                Project Description:<br />
+                Hadoop Data Processing is a platform which dealing with big size data in batch or even real time process. The Hadoop data processing will enhance and raise the capability of data analysis which needed by Indosat business users, for handling future challenge which will be more complex in terms of data analysis, data volume and data speed.<br />
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Create Hgrid Workflow.</li>
+                  <li>Developing application based on business analyst.</li>
+                  <li>Create Running Script.</li>
+                  <li>Developing with Shellscript.</li>
+                  <li>Monitors application execution and resolves issues on application development.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: 'img/timeline/indosat-icon.ico',
+      },
+      {
+        detailed   : true,
+        year       : '2016 - 17',
+        transparent: true,
+        title      : 'Vgrid – Voracity Hgrid Gateway',
+        html       : `
+            <p>
+                Role: Developer.<br />
+                Client: <a href="https://www.iriworldwide.com/en-us">IRI Company</a>.<br />
+            </p>
+            <p>
+                Project Description:<br />
+                Build server-side application that act as a gateway for Hadoop orchestration tools.<br />
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Create Rest API.</li>
+                  <li>Developing application based on business analyst.</li>
+                  <li>Create Running Script.</li>
+                  <li>Developing with <a href="https://nodejs.org/">Nodejs</a> + <a href="https://www.mongodb.com//">MongoDB</a>.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: 'img/timeline/iri-icon.ico',
+      },
+      {
+        year : '2013 - 17',
+        title: 'PT. Dua Empat Tujuh',
+        html : `
+                <p>
+                    <a href="https://www.solusi247.com/">Solusi247</a> is an integrated solution for Information Communication Technology (ICT). This service was established on August 2000 from group of people with more than 13 year experience in ICT industry.
                 </p>
                 <p>
-                    During 2009 - 2011, many other blogs has been created too. For example:
+                    The company services focus on consultation, especially for Database and Data Warehouse solution (the core competence of Solusi247), although not to close the hardware and network solution, as part of integration of those core solutions.
+                </p>
+                <p>
+                    Main responsibilities:
                     <ul>
-                        <li>
-                            <a href="https://web.archive.org/web/20100926063748/http://bro2gifs.mihanblog.com/post/5">bro2gifs.mihanblog.com</a> - we were receiving banner designing orders there!
-                        </li>
-                        <li>
-                            <a href="https://web.archive.org/web/20101203082548/http://kdabs.mihanblog.com/">kdabs.mihanblog.com</a> - we were publishing audio books there
-                        </li>
-                        <li>
-                            <a href="http://web.archive.org/web/20100909150338/http://best1shops.mihanblog.com/">best1shops.mihanblog.com</a> - it was our first online shop and we got our first income from there. The feeling of that moment was awesome!
-                        </li>
-                        <li>
-                            And many other blogs I can't really remember!
-                        </li>
+                      <li>Create Hgrid Workflow</li>
+                      <li>Create running script.</li>
+                      <li>Develop and Maintenance application based on business analyst.</li>
+                      <li>Monitors application execution and resolves issues on application development.</li>
                     </ul>
                 </p>
         `,
-        image      : 'img/timeline/an7.mahblog.com.png',
-        imageHeight: 200,
-        icon       : 'mdi-web',
+        image    : 'img/timeline/247.jpg',
+        iconImage: 'img/timeline/247-icon.png',
       },
       {
         detailed   : true,
-        year       : '2009',
+        year       : '2017 - 19',
         transparent: true,
-        title      : 'Created Almas-Khor Game',
-        html       : 'A simple (yet almost unbeatable!) game made with Game Maker. It\'s still available for <a target="_blank" href="https://download.tebyan.net/2687/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D9%84%D9%85%D8%A7%D8%B3-%D8%AE%D9%88%D8%B1">download here</a>!<br>The reason this game is pretty important for me is that it was my first published program!',
-        image      : 'img/timeline/almas-khor.jpg',
-        iconImage  : 'img/timeline/almas-khor-icon.png',
-      },
-      {
-        detailed   : true,
-        year       : '2011',
-        transparent: true,
-        title      : 'Fished Mobsters!',
+        title      : 'Heolys',
         html       : `
-          <p>
-            Oh shouldn't I include this one?! whatever ...<br>
-            It was 2011 and I'd been addicted to a game called Street Mobsters. On its IR server, which is still available on <a target="_blank" href="https://web.archive.org/web/20111005204247/https://mobgangs.com/">mobgangs.com</a>, I decided to perform a phishing attack and harvest credentials of in-game wealthy people.
-          </p>
-          <p>
-            I hosted a page similar to this one and published it inside the game via various mediums. To be honest, I didn't expect any result but about 40 people had given me their username and passwords! among them, I selected wealthiest ones and ... you know rest of the story just add a Robin Hood at the end!
-          </p>
-          <p>
-            This was the moment I realized how it is easy to actually get misused especially on the net.
-          </p>
+            <p>
+                Role: Backend Developer.<br />
+                Client: <a href="http://heolys.fr">HEOLYS</a>
+            </p>
+            <p>
+                HEOLYS is a start-up specializing in the field of mobile application development created by the founders of e-Conception. Since its launch, it has been joined by private and institutional investors (BPI in particular) in order to consolidate its growth. It is made up of a complete team (network administrators, consultants / advisers, backend and mobile developers, graphic designers, ergonomists).
+            </p>
+            <p>
+                Heolys’s breakthrough in the field of mobile applications is based on a unique know-how in geolocation without network coverage, the deployment of private social networks and dynamic information feedback. The engine of our smartphone applications is continuously optimized by our team of 10 developers and graphic designers working in our development studio. This allows for up-to-date developments using the latest technologies available.<br />
+            </p>
+            <p>
+                Main Responsibilities:
+                <ul>
+                  <li>Develop and Maintenance Rest APIs.</li>
+                  <li>Develop and Maintenance applications based on business analyst.</li>
+                  <li>Create Running Scripts.</li>
+                  <li>Developing with <a href="https://symfony.com/">Symfony</a> Framework.</li>
+                </ul>
+            </p>
+            <p>
+                Delivered Projects:
+                <ul>
+                  <li><a href="https://play.google.com/store/apps/details?id=fr.econception.heolys">Heolys</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=fr.appsolute.naturapass">NaturaPass</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=fr.econception.vigifaune">Vigifaune</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=com.econception.football.fbbp">FBBP01</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=fr.econception.soup">Pépinières SOUPE</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=fr.econception.siti">Siti</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=fr.econception.semprita">Semprita</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=fr.econception.jumping">Jumping Place</a></li>
+                </ul>
+            </p>
         `,
-        image    : 'img/timeline/street-mobsters.jpg',
-        iconImage: 'img/timeline/street-mobsters-icon.png',
+        iconImage: 'img/timeline/heolys-icon.png',
       },
       {
         detailed   : true,
-        year       : '2012',
+        year       : '2019 - 20',
         transparent: true,
-        title      : 'Created a Botnet',
+        title      : 'Solene-R Platforme',
         html       : `
+            <p>
+                Role: Backend Developer.<br />
+                Client: <a href="https://www.solene-r.com/">SOLENE-R</a>
+            </p>
+            <p>
+                Project Description:<br />
+                <a href="https://plateforme.solene-r.com//">SOLENE-R Platforme</a> is a Document Management System which transform the conventional management system into digital.
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Develop and Maintenance Rest API.</li>
+                  <li>Develop and Maintenance application based on business analyst.</li>
+                  <li>Developing with <a href="https://laravel.com/">Laravel</a> Framework.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: 'img/timeline/solene-icon.png',
+      },
+      {
+        detailed   : true,
+        year       : '2019 - 20',
+        transparent: true,
+        title      : 'BTWN',
+        html       : `
+            <p>
+                Role: Backend Developer.<br />
+                Client: <a href="https://btwnapp.us/">b.plat llc. US</a><br />
+            </p>
+            <p>
+                Project Description:<br />
+                <a href="https://play.google.com/store/apps/details?id=us.b2ween.app">BTWN</a> is a marketing platform created by b.plat LLC in 2017 with the purpose to revolutionize referral marketing by using a patented technology that automates the word-of-mouth referral process.So businesses can reward happy customers, without having to track referral codes of links.
+            </p>
+            <p>
+                Responsibilities/Contribution & Accomplishment:
+                <ul>
+                  <li>Develop and Maintenance Rest API.</li>
+                  <li>Develop and Maintenance application based on business analyst.</li>
+                  <li>Create Running Script.</li>
+                  <li>Developing with <a href="https://nodejs.org/">Nodejs</a> + <a href="https://www.mongodb.com//">MongoDB</a>.</li>
+                </ul>
+            </p>
+        `,
+        image    : 'img/timeline/btwn.png',
+        iconImage: 'img/timeline/btwn-icon.jpg',
+      },
+      {
+        year : '2017 - 20',
+        title: 'PT. Mindo Small Business Solutions',
+        html : `
                 <p>
-                    A VB6-based (yes you read it correctly! Visual Basic 6) botnet with dynamic C&Cs on Blogfa.com and many zombies. Just kidding, there were 3 infected PCs only!
+                    <a href="https://mindosolutions.com/">MINDO</a> is a full service outsourcing partner dedicated to helping small and medium sized businesses achieve their goals.
                 </p>
                 <p>
-                    It was initially created to perform fraud clicks on one of PPC ads on one of my old blogs. It was designed in a way that the advertiser would not be able to detect the fraud easily.
-                </p>
-                `,
-        icon: 'mdi-desktop-classic',
-      },
-      {
-        year : '2013',
-        title: 'Founded Bytegate.ir',
-        html : `
-                    <p>
-                        Current status: <span class="green--text accent-4">Active</span>,
-                        Team: <span class="">1-5 person(s) (variable)</span>
-                    </p>
-                    <p>
-                        The main goal of <a target="_blank" href="https://bytegate.ir/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=bytegate">Bytegate.ir</a> is to extend IT-related articles in Persian web with pretty easy-to-understand and picture-driven articles.
-                    </p>
-                    <p>
-                        The reason I founded Bytegate.ir was because of a dispute about computer stuffs back in school. Soon, I realized that I know NOTHING about computers! Bytegate.ir is the place I've started learning amazing things.
-                    </p>
-                    <p>
-                        Currently there are 600+ articles on the website which helps 4000+ people each day. It's been helping 4 people to cover small part of their expenses.
-                   </p>`,
-        image    : 'img/timeline/bytegate.ir.jpg',
-        iconImage: 'img/timeline/bytegate.ir-icon.png',
-      },
-      {
-        detailed   : true,
-        year       : '2014-15',
-        transparent: true,
-        title      : 'Created a Captcha Solving Farm',
-        /* eslint-disable no-useless-escape */
-        html       : `
-                <p>
-                    I was inspired by a blog post about captcha solving techniques and made my own captcha solving farm and built some basic APIs for <span style="background-color: #d1d1d1;">/(bad)?/g</span> guys to use it.
+                    The company services focus on consultation, especially for Database and Data Warehouse solution (the core competence of Solusi247), although not to close the hardware and network solution, as part of integration of those core solutions.
                 </p>
                 <p>
-                    It was initially created to make me millionaire (!) however, it was never even published since I couldn't find a way to receive money from outside of Iran. It was a stupid attempt in fact! 🤦‍♂️
+                    Main responsibilities:
+                    <ul>
+                      <li>Develop and Maintenance Rest APIs</li>
+                      <li>Create running script.</li>
+                      <li>Develop and Maintenance application based on business analyst.</li>
+                    </ul>
                 </p>
-                `,
-        /* eslint-enable no-useless-escape */
-        icon: 'mdi-worker',
-      },
-      {
-        year       : '2015',
-        transparent: true,
-        title      : 'Created WifiShield',
-        html       : `
-          <p>
-              Current status: <span class="red--text darken-3">Failed</span>,
-              Team: <span class="">1</span>
-          </p>
-          <p>
-            WifiShield supposed to be a network security application to find vulnerabilities in Wi-Fi networks and fix them by manipulating through their actual configuration user interface.          </p>
-          <p>
-            It was basically a web crawler which is designed to go to default gateway (192.168.1.1 or whatever it was configured) page and interact with its user interfec following predefined action sets.
-          </p>
-          <p>
-            <span class="red--text darken-3">Failing Reason</span>:
-             The main problem with this application was that, I wasn't able to gather all possible firmware/emulators of devices of even a single brand. And of course, every version of a specific models may come in a different firmware version and thus different UI. I've only defined action sets for my own access points and left it as is.
-          </p>
         `,
-        image    : 'img/timeline/wifi-shield.png',
-        iconImage: 'img/timeline/wifi-shield-icon.png',
-      },
-      {
-        year : '2016',
-        title: 'Founded Bobet.ir',
-        html : `
-          <p>
-              Current status: <span class="orange--text lighten-1">Taking last breaths</span>,
-              Team: <span class="">1-6 person(s) (variable)</span>
-          </p>
-          <p>
-              The purpose of <a target="_blank" href="http://bobet.ir/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=bobet">Bobet.ir</a> is to let people learn English and Turkish languages in a different way by listening to musics with their lyrics, Persian translations and pronunciations of the actual lyric in Persian letters. The website reached 9000 visits/day. More than 270+ musics with contents are published there.
-          </p>
-          <p>
-              The reason behind founding Bobet.ir was pretty simple: testing Google SEO patterns related to musics. But suddenly, it grew up so fast we decided to pivot and work on it as a real project.
-          </p>
-          <p>
-            <span class="orange--text lighten-1">Failing Reason</span>:
-             A year later, it got censored in Iran (since women voice in musics are illegal here!) and the stats dropped suddenly. Before then, it had helped 5 people to cover some pieces of their expenses and had helped <a target="_blank" href="https://mahak-charity.org/main/index.php/fa/">Mahak Charity</a> to receive some donations by promoting it.
-          </p>
-        `,
-        image    : 'img/timeline/bobet.ir.jpg',
-        iconImage: 'img/timeline/bobet.ir-icon.png',
-      },
-      {
-        year       : '2017',
-        transparent: true,
-        title      : 'Founded Telepad',
-        html       : `
-          <p>
-              Current status: <span class="red--text darken-3">Failed</span>,
-              Team: <span class="">1</span>
-          </p>
-          <p>
-            <a target="_blank" href="http://t.me/Telepad_Bot">Telepad</a> was a Telegram assistant bot which helped channel owners to manage their posts easily by scheduling posts, instant editing, ready-to-be-published post suggestions and administrators' role management.
-          </p>
-          <p>
-            The reason behind founding it was personal usage. It was initially created to make Bobet.ir publishing process easier but I decided to let others use it too.
-          </p>
-          <p>
-            <span class="red--text darken-3">Failing Reason</span>:
-             Well, I was alone and couldn't handle its development since I'd been working on other projects too.<br />
-             Starting from there, slowly, I understood the actual value of having a team and focusing on a specific business.
-          </p>
-        `,
-        image    : 'img/timeline/telepad.png',
-        iconImage: 'img/timeline/telepad-icon.png',
-      },
-      {
-        year : '2017',
-        title: 'Founded Delix.ir',
-        html : `
-          <p>
-              Current status: <span class="green--text accent-4">Active</span>,
-              Team: <span class="">1</span>
-          </p>
-          <p>
-            <a target="_blank" href="http://delix.ir/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=delix">Delix.ir</a> is an online image text extractor (OCR) and PDF to Word converter which is built to support Persian language especially. The service also provides APIs to implement its OCR engines into customers' own applications.
-          </p>
-          <p>
-            The reason I founded Delix.ir (<u>D</u>ocument <u>ELIXIR</u>) was because back in school, I found out that there is an unsolved need for this kind of services especially needed by teachers. However, it wasn't developed since 2017.
-          </p>
-          <p>
-            Currently, 3330+ people are using the service. It's still under development and we're going to change the strategy to support B2B market soon.
-          </p>
-        `,
-        image    : 'img/timeline/delix.ir.png',
-        iconImage: 'img/timeline/delix.ir-icon.png',
-      },
-      {
-        detailed   : true,
-        transparent: true,
-        year       : '2018',
-        title      : 'A Turning Point',
-        html       : `
-          <p>
-          It looks like that 2018 is missing from my CV isn't it? <strong>NOT AT ALL!</strong>
-          </p>
-          <p>
-          This awesome year was a turning point in my life. I found out the reason why my businesses are not growing; what I'm doing wrong; what I've supposed to do and plenty of other thoughts.
-          </p>
-          <p>
-          Technically, I got familiar with and tried to be best (not yet of course!) at the following technologies:
-          <ul>
-          <li>git</li>
-          <li>Laravel</li>
-          <li>Vue.js</li>
-          <li>Arduino</li>
-          <li>Ubuntu</li>
-          <li>TTD and CI/CD</li>
-          <li>Development best practices</li>
-          <li>And more ...</li>
-          </ul>
-          </p>
-          <p>
-          So please don't underestimate this card by its height in pixels. It's worth a lot to me.
-          </p>
-
-        `,
-        icon: 'mdi-cake-variant',
-      },
-      {
-        year : '2019',
-        title: 'Open Sourced Telegram Web Bridge',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/telegram-web-bridge">AmirrezaNasiri/telegram-web-bridge</a>
-          </p>
-          <p>
-            Telegram Web Bridge is a bidirectional, web-based, proxy-like application which can act as a middleman for Telegram Bot API requests (from your actual application to Telegram) and Webhooks (from Telegram to your actual application).
-          </p>
-          <p>
-            It was initially developed because of Telegram censorship in Iran and the need for it in a storage management software we've built. I decided to publish the codes so anyone with the same problem will be able to handle it.
-          </p>
-        `,
-        image: 'img/timeline/telegram-web-bridge.png',
-        icon : 'mdi-github-circle',
-      },
-      {
-        year : '2019',
-        title: 'Open Sourced USB Keystroke Injector',
-        html : `
-          <p>
-            Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/usb-keystroke-injector">AmirrezaNasiri/usb-keystroke-injector</a>
-          </p>
-          <p>
-            An Arduino-based keyboard emulator which injects (i.e. types) a sequence of letters received via Bluetooth protocol or read from predefined SD card payloads. Demo GIF is available on the GitHub page.
-          </p>
-          <p>
-            It was initially a university project, made at 2018 but I decided to extend it a little bit and publish it on my GitHub.
-          </p>
-        `,
-        image: 'img/timeline/usb-keystroke-injector.png',
-        icon : 'mdi-github-circle',
-      },
-      {
-        year : '2019',
-        title: 'Co-Founded Smo.li',
-        html : `
-          <p>
-              Current status: <span class="green--text accent-4">Active</span>,
-              Team: <span class="">2</span>
-          </p>
-          <p>
-            <a target="_blank" href="https://smo.li/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=smoli">Smoli</a> is a URL shortener and link tracking platform that also allows you to add eye-catching and branded call-to-actions to any page on the web. See a demo of Forbes campaign on Business News Daily: <a target="_blank" href="http://smo.li/+demo-forbes">smo.li/+demo-forbes</a>.
-          </p>
-          <p>
-            The service has been founded by <a target="_blank" href="https://www.linkedin.com/in/saeidhabibpour/">Saeid Habibpour</a> (CEO) and me (CTO). Currently, the MVP is ready and we're researching the market.
-          </p>
-        `,
-        image    : 'img/timeline/smo.li.png',
-        iconImage: 'img/timeline/smo.li-icon.png',
-      },
-      {
-        year : '2019',
-        title: 'Open Sourced This Resume',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/vue-modern-resume">AmirrezaNasiri/vue-modern-resume</a>
-          </p>
-          <p>
-            A Vue.js-based and powered-by-Vuetify (material UI kit) resume template which you're seeing right now!
-          </p>
-        `,
-        image: 'img/timeline/vue-modern-resume.png',
-        icon : 'mdi-github-circle',
-      },
-      {
-        year : '2019',
-        title: 'Published Vue Registrar Package',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/vue-registrar">AmirrezaNasiri/vue-registrar</a>
-          </p>
-          <p>
-            A Vue.js package that makes developers' code a lot cleaner and much more understandable. It's consisted of two features that:
-            <ul>
-                <li>Registers all your common and frequently used components globally and ends the need for importing them manually;</li>
-                <li>Assembles all your vuex modules in a nested manner.</li>
-            </ul>
-          </p>
-        `,
-        image    : 'img/timeline/vue-registrar-demo.png',
-        iconImage: 'img/timeline/vue-registrar-logo.png',
-      },
-      {
-        year : 'So far ...',
-        title: 'Written 340+ Unique Articles!',
-        html : `I'm the guy who loves teaching! So far, I've written 340+ unique articles which most of them are computer-related. You can access them here:
-                    <ul><li><a target="_blank" href="https://bytegate.ir/author/amirrezanasiri/">My posts on Bytegate.ir</a> (260+ Computer-related)</li><li><a target="_blank" href="http://bobet.ir/author/amirrezanasiri/">My posts on Bobet.ir</a> (80+ translations)</li></ul>`,
-        icon: 'mdi-fountain-pen-tip',
+        image    : 'img/timeline/mindo.jpg',
+        iconImage: 'img/timeline/mindo-icon.png',
       },
     ],
   }),
@@ -495,5 +476,8 @@ export default {
 }
 .transparent{
   opacity: 0.6;
+}
+.v-avatar img, .v-avatar .v-icon, .v-avatar .v-image {
+  background: white;
 }
 </style>

@@ -7,10 +7,10 @@
       <avatar />
       <div class="text-sm-center mb-4 mt-3">
         <h1>
-          Amirreza <span class="light-blue--text text--lighten-3">Nasiri</span>
+          Andhi <span class="light-blue--text text--lighten-3">Arifin</span>
         </h1>
         <span>
-          A challenge-loving web developer
+          A challenge-loving backend developer
         </span>
       </div>
 
@@ -79,22 +79,17 @@ export default {
             {
               name: 'Email',
               icon: 'mdi-email',
-              text: 'hi@amirreza.in',
-            },
-            {
-              name: 'Website',
-              icon: 'mdi-web',
-              text: 'amirreza.in',
+              text: 'ende.astro@gmail.com',
             },
             {
               name: 'Birth Date',
               icon: 'mdi-cake-variant',
-              text: 'Dec 7, 1996',
+              text: 'August 17, 1990',
             },
             {
               name: 'Habitation',
               icon: 'mdi-map-marker',
-              text: 'Tabriz, Iran',
+              text: 'Yogyakarta, Indonesia',
             },
           ],
         },
@@ -103,30 +98,24 @@ export default {
           items: [
             {
               icon: 'mdi-github-circle',
-              text: 'github.com/AmirrezaNasiri',
-              link: 'https://github.com/AmirrezaNasiri',
+              text: 'github.com/sahyung',
+              link: 'https://github.com/sahyung',
             },
             {
               icon: 'mdi-linkedin-box',
-              text: 'linkedin.com/in/amirreza-nasiri',
-              link: 'https://linkedin.com/in/amirreza-nasiri',
-            },
-            {
-              icon: 'mdi-twitter',
-              text: 'twitter.com/Amirreza_Nasiri',
-              link: 'https://twitter.com/Amirreza_Nasiri',
+              text: 'linkedin.com/in/sahyung',
+              link: 'https://linkedin.com/in/sahyung',
             },
             {
               icon: 'mdi-instagram',
-              text: 'instagram.com/amirreza.n96',
-              link: 'https://instagram.com/amirreza.n96',
+              text: 'instagram.com/sa_hyung',
+              link: 'https://instagram.com/sa_hyung',
             },
           ],
         },
         hobbies: {
           title: 'HOBBIES',
           items: [
-
             {
               icon: 'mdi-bullseye',
               text: 'Getting out of Safe Zone',
@@ -148,8 +137,8 @@ export default {
               text: 'Hacking Stuffs',
             },
             {
-              icon: 'mdi-teach',
-              text: 'Teaching',
+              icon: 'mdi-image-outline',
+              text: 'Drawing',
             },
             {
               icon: 'mdi-karate',
@@ -158,10 +147,6 @@ export default {
             {
               icon: 'mdi-music',
               text: 'Music',
-            },
-            {
-              icon: 'mdi-account-group',
-              text: 'Leadership',
             },
             {
               icon: 'mdi-book-open-page-variant',
@@ -181,15 +166,7 @@ export default {
               value: 70,
             },
             {
-              text : 'Turkish',
-              value: 45,
-            },
-            {
-              text : 'Azeri',
-              value: 100,
-            },
-            {
-              text : 'Persian',
+              text : 'Indonesia',
               value: 100,
             },
           ],

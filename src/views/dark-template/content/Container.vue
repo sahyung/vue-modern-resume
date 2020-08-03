@@ -7,7 +7,7 @@
       <content-section
         title="Who am I?"
       >
-        I'm a developer born in Iran and founder of <a href="http://delix.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=delix">Delix.ir</a>, <a href="https://bytegate.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bytegate">Bytegate.ir</a> and <a href="http://bobet.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bobet">Bobet.ir</a> and co-founder of <a href="https://smo.li/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=smoli">Smo.li</a>.<br>
+        I'm a developer born in Kediri, East Java who have been working as PHP Programmer since 2010.<br>
         I'm interested and skilled in different topics of Information Technology including programming, web development, and computer and network security.
       </content-section>
       <content-section
@@ -118,32 +118,42 @@ export default {
   data      : () => ({
     prouds: [
       {
-        icon  : 'mdi-help-rhombus-outline',
-        text  : 'Answered 10M+ questions!',
-        source: '(Bytegate.ir post views)',
+        icon  : 'mdi-brain',
+        text  : 'Analytical',
+        source: '(Analytical skills)',
       },
       {
-        icon  : 'mdi-library-music',
-        text  : 'Made people enjoy and learn a new language for equivalent of 29+ years (older than myself!)',
-        source: '(Bobet.ir and its channel downloads)',
+        icon  : 'mdi-heart',
+        text  : 'Enjoy',
+        source: '(I enjoy software development)',
       },
       {
-        icon  : 'mdi-timer-sand',
-        text  : 'Saved +110 days of time of students, writers and etc!',
-        source: '(Delix.ir service usages)',
+        icon  : 'mdi-speedometer',
+        text  : 'Engagement',
+        source: '(I work in full engagement)',
       },
       {
         icon  : 'mdi-account-multiple',
-        text  : 'Tried to cover small part of 7 people expenses.',
-        source: '(My awesome colleagues)',
+        text  : 'Player',
+        source: '(I could work either solo or being team player)',
+      },
+      {
+        icon  : 'mdi-account-heart',
+        text  : 'Reliable and trusted by clients.',
+        source: '(Whilst some freelancers go AWOL when things gets tough, I always work it through the end)',
+      },
+      {
+        icon  : 'mdi-star',
+        text  : '5-star Support',
+        source: '(Sometimes delivering the job is half the work, I\'m always around to provide ongoing support)',
       },
     ],
     educations: [
       {
-        from       : '2015',
-        to         : '2019 (not finished yet)',
-        title      : 'Bachelor\'s degree, Information Technology',
-        location   : 'Seraj University',
+        from       : '2009',
+        to         : '2015 (not finished yet)',
+        title      : 'Bachelor\'s degree, System Information',
+        location   : 'University of Gajayana Malang',
         description: 'Became a member of University Academic Association of Computer Science',
       },
     ],
@@ -164,9 +174,19 @@ export default {
         value: 90,
       },
       {
-        title: 'Vue.js Framework',
-        icon : 'mdi-vuejs',
-        value: 90,
+        title: 'NodeJS',
+        icon : 'mdi-nodejs',
+        value: 75,
+      },
+      {
+        title: 'MySQL',
+        icon : 'mdi-database',
+        value: 80,
+      },
+      {
+        title: 'MongoDB',
+        icon : 'mdi-database',
+        value: 70,
       },
       { divider: true },
       {
@@ -182,12 +202,12 @@ export default {
       {
         title: 'Web Application Security',
         icon : 'mdi-shield-lock',
-        value: 80,
+        value: 50,
       },
       {
         title: 'Test Driven Development',
         icon : 'mdi-test-tube',
-        value: 26,
+        value: 46,
       },
       {
         title: 'Continuous Integration / Continuous Delivery',
@@ -197,7 +217,7 @@ export default {
       {
         title: 'Git',
         icon : 'mdi-git',
-        value: 67,
+        value: 87,
       },
       { divider: true },
       {
@@ -208,19 +228,9 @@ export default {
       {
         title: 'C/C++',
         icon : 'mdi-language-cpp',
-        value: 38,
+        value: 48,
       },
       { divider: true },
-      {
-        title: 'Leadership',
-        icon : 'mdi-account-group',
-        value: 68,
-      },
-      {
-        title: 'Content Marketing (+340 articles)',
-        icon : 'mdi-text',
-        value: 96,
-      },
     ],
   }),
 }
