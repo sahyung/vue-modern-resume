@@ -337,7 +337,6 @@ export default {
         iconImage: './img/timeline/247-icon.png',
       },
       {
-        detailed   : true,
         year       : '2017 - 19',
         transparent: true,
         title      : 'Heolys',
@@ -401,6 +400,30 @@ export default {
             </p>
         `,
         iconImage: './img/timeline/solene-icon.png',
+      },
+      {
+        year       : '2019',
+        transparent: false,
+        title      : 'Kreditpro',
+        html       : `
+            <p>
+                Role: Backend Developer.<br />
+                Client: <a href="https://kreditpro.id/">Kreditpro</a>
+            </p>
+            <p>
+                KreditPro is Financial Technology company based in Indonesia, with main purpose to provide loan using peer-to-peer lending mechanism. It aims to bridge lender and borrower through innovative and safe platform without the intermediaries of banks and other financial institutions.
+            </p>
+            <p>
+                Main Responsibilities:
+                <ul>
+                  <li>Develop Rest APIs</li>
+                  <li>Develop admin page based on business analyst.</li>
+                  <li>Developing with <a href="https://lumen.laravel.com/">Lumen</a> + <a href="https://laravel.com/">Laravel</a> Framework.</li>
+                </ul>
+            </p>
+        `,
+        iconImage: './img/timeline/kreditpro-icon.png',
+        image    : './img/timeline/kreditpro.jpg',
       },
       {
         detailed   : true,
