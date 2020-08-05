@@ -377,6 +377,43 @@ export default {
         iconImage: './img/timeline/heolys-icon.png',
       },
       {
+        year       : '2018 - 19',
+        transparent: false,
+        title      : 'Fondaco',
+        html       : `
+            <p>
+                Role: Backend Developer. (Freelance)<br />
+                Client: <a href="http://www.fondacodental.com/">Fondaco</a>
+            </p>
+            <p>
+                Founded in 1984 by Mr Fonda, Fondaco Dental Group has grown steadily and enhanced its services to the dental professions through inspired innovations and technology. We are constantly striving towards customer driven services, focusing on enhancing one stop solution of TOP manufacturers of dental equipment, supplies and consumable. With highly skilled dedicated to twenty four hours services back up, Fondaco Dental Group has earned a strong trust of its now extensive client base, spread throughout this huge archipelago.
+            </p>
+            <p>
+                A commitment to education and training for both clients and staff has underpinned the success of Fondaco Dental. Regular professional seminars utilizing international experts locally and internationally, have become a must attend events within our education community.
+            </p>
+            <p>
+                Main Responsibilities:
+                <ul>
+                  <li>Develop and Maintenance Rest API.</li>
+                  <li>Develop admin page based on business analyst.</li>
+                  <li>Developing with <a href="https://laravel.com/">Laravel  </a> Framework.</li>
+                </ul>
+            </p>
+            <p>
+                Delivered Projects:
+                <ul>
+                  <li><a href="https://play.google.com/store/apps/details?id=com.fondacoshop">Fondaco</a></li>
+                </ul>
+            </p>
+        `,
+        iconImage: './img/timeline/fondaco-icon.png',
+        image    : [
+          './img/timeline/fondaco-0.jpg',
+          './img/timeline/fondaco-1.jpg',
+          './img/timeline/fondaco-2.jpg',
+        ],
+      },
+      {
         detailed   : true,
         year       : '2019 - 20',
         transparent: true,
@@ -407,7 +444,7 @@ export default {
         title      : 'Kreditpro',
         html       : `
             <p>
-                Role: Backend Developer.<br />
+                Role: Backend Developer. (Freelance)<br />
                 Client: <a href="https://kreditpro.id/">Kreditpro</a>
             </p>
             <p>

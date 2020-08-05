@@ -7,7 +7,7 @@
       <content-section
         title="Who am I?"
       >
-        I'm a backend developer born in Kediri, East Java who have been working as PHP Programmer since 2010.<br>
+        I'm a backend developer born in Kediri, East Java who have been working as PHP Programmer since 2013.<br>
         I'm interested and skilled in different topics of Information Technology including programming, web development, and computer and network security.
       </content-section>
       <content-section
