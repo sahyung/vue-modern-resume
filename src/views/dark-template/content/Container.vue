@@ -7,7 +7,7 @@
       <content-section
         title="Who am I?"
       >
-        I'm a backend developer born in Kediri, East Java who have been working as PHP Programmer since 2013.<br>
+        I'm a backend developer born in Kediri, East Java, who have been working as PHP Programmer since 2013.<br>
         I'm interested and skilled in different topics of Information Technology including programming, web development, and computer and network security.
       </content-section>
       <content-section
@@ -161,63 +161,63 @@ export default {
       {
         title: 'PHP',
         icon : 'mdi-language-php',
-        value: 95,
+        value: 75,
       },
       {
         title: 'JavaScript',
         icon : 'mdi-language-javascript',
-        value: 80,
+        value: 70,
       },
       {
         title: 'Laravel Framework',
         icon : 'mdi-laravel',
-        value: 90,
+        value: 70,
       },
       {
         title: 'NodeJS',
         icon : 'mdi-nodejs',
-        value: 75,
+        value: 65,
       },
       {
         title: 'MySQL',
         icon : 'mdi-database',
-        value: 80,
+        value: 70,
       },
       {
         title: 'MongoDB',
         icon : 'mdi-database',
-        value: 70,
+        value: 60,
       },
       { divider: true },
       {
         title: 'Ubuntu Server',
         icon : 'mdi-ubuntu',
-        value: 70,
+        value: 60,
       },
       {
         title: 'CentOS Server',
         icon : 'mdi-linux',
-        value: 47,
+        value: 37,
       },
       {
         title: 'Web Application Security',
         icon : 'mdi-shield-lock',
-        value: 50,
+        value: 40,
       },
       {
         title: 'Test Driven Development',
         icon : 'mdi-test-tube',
-        value: 46,
+        value: 36,
       },
       {
         title: 'Continuous Integration/Continuous Delivery',
         icon : 'mdi-truck-fast',
-        value: 35,
+        value: 30,
       },
       {
         title: 'Git',
         icon : 'mdi-git',
-        value: 87,
+        value: 70,
       },
       { divider: true },
       {
