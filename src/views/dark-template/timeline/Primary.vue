@@ -150,12 +150,12 @@ export default {
         title      : 'Started as a freelancer on my second year in college',
         icon       : 'mdi-web',
         html       : `
-                <p>
-                    It was November 19, 2010 that one of my profesor asked me to assist his nephew doing his thesis.
-                </p>
-                <p>
-                    Since then, I'm doing freelance work to support my college tuition.
-                </p>
+            <p>
+                It was November 19, 2010 that one of my profesor asked me to assist his nephew doing his thesis.
+            </p>
+            <p>
+                Since then, I'm doing freelance work to support my college tuition.
+            </p>
         `,
       },
       {
@@ -337,6 +337,7 @@ export default {
         iconImage: './img/timeline/247-icon.png',
       },
       {
+        detailed   : true,
         year       : '2017 - 19',
         transparent: true,
         title      : 'Heolys',
@@ -493,23 +494,46 @@ export default {
         year : '2017 - 20',
         title: 'PT. Mindo Small Business Solutions',
         html : `
-                <p>
-                    <a href="https://mindosolutions.com/">MINDO</a> is a full service outsourcing partner dedicated to helping small and medium sized businesses achieve their goals.
-                </p>
-                <p>
-                    The company services focus on consultation, especially for Database and Data Warehouse solution (the core competence of Solusi247), although not to close the hardware and network solution, as part of integration of those core solutions.
-                </p>
-                <p>
-                    Main responsibilities:
-                    <ul>
-                      <li>Develop and Maintenance Rest APIs</li>
-                      <li>Create running script.</li>
-                      <li>Develop and Maintenance application based on business analyst.</li>
-                    </ul>
-                </p>
+            <p>
+                <a href="https://mindosolutions.com/">MINDO</a> is a full service outsourcing partner dedicated to helping small and medium sized businesses achieve their goals.
+            </p>
+            <p>
+                The company services focus on consultation, especially for Database and Data Warehouse solution (the core competence of Solusi247), although not to close the hardware and network solution, as part of integration of those core solutions.
+            </p>
+            <p>
+                Main responsibilities:
+                <ul>
+                  <li>Develop and Maintenance Rest APIs</li>
+                  <li>Create running script.</li>
+                  <li>Develop and Maintenance application based on business analyst.</li>
+                </ul>
+            </p>
         `,
         image    : './img/timeline/mindo.jpg',
         iconImage: './img/timeline/mindo-icon.png',
+      },
+      {
+        year : '2020 - Present',
+        title: 'PT. Solusi Pembayaran Elektronik',
+        html : `
+          <p>
+              Current status: <span class="orange--text lighten-1">Probation time</span>
+          </p>
+            <p>
+                <a href="https://spesolution.com/">SPE</a> is a company who provide financial management technology platform solutions for modern business.
+            </p>
+            <p>
+                SPE provides high end solutions to enhance its client technology systems. Based on its experience and knowledge in Financial Technology (FinTech) fields for more than 6 years, SPE helped its clients build end-to-end financial technology solutions. SPE has specialists in the field of payment solutions development and management, payment gateways, e-commerce, switching, chain management systems, smart community, gamification, and also merchant management.
+            </p>
+            <p>
+                Current responsibilities:
+                <ul>
+                  <li>Maintenance Back Office Web Portal and Services</li>
+                </ul>
+            </p>
+        `,
+        image    : './img/timeline/spe.jpg',
+        iconImage: './img/timeline/spe-icon.png',
       },
     ],
   }),
