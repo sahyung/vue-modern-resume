@@ -125,7 +125,7 @@ export default {
   name      : 'Timeline',
   components: { ContentSection },
   data      : () => ({
-    detailed: true,
+    detailed: false,
     items   : [
       {
         detailed   : true,
@@ -513,11 +513,11 @@ export default {
         iconImage: './img/timeline/mindo-icon.png',
       },
       {
-        year : '2020 - Present',
+        year : '2020 - 2021',
         title: 'PT. Solusi Pembayaran Elektronik',
         html : `
           <p>
-              Current status: <span class="orange--text lighten-1">Probation time</span>
+              Current status: <span class="orange--text lighten-1">6 months contract until March 2021</span>
           </p>
             <p>
                 <a href="https://spesolution.com/">SPE</a> is a company who provide financial management technology platform solutions for modern business.
@@ -528,7 +528,8 @@ export default {
             <p>
                 Current responsibilities:
                 <ul>
-                  <li>Maintenance Back Office Web Portal and Services</li>
+                  <li>Maintain Back Office Web Portal and Services.</li>
+                  <li>Use <a href="https://www.yiiframework.com/">Yii2 Framework</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a>, and <a href="https://docker.com/">Docker</a> for orchestration</li>
                 </ul>
             </p>
         `,
