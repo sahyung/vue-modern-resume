@@ -125,7 +125,7 @@ export default {
   name      : 'Timeline',
   components: { ContentSection },
   data      : () => ({
-    detailed: false,
+    detailed: true,
     items   : [
       {
         detailed   : true,
@@ -535,6 +535,46 @@ export default {
         `,
         image    : './img/timeline/spe.jpg',
         iconImage: './img/timeline/spe-icon.png',
+      },
+      {
+        year : '2020 - Present',
+        title: 'Homker (Freelance)',
+        html : `
+            <p>
+                Current status: <span class="orange--text lighten-1">Development on Progress</span>
+            </p>
+            <p>
+                <a href="https://homker.co.id/">Homker</a> is a platform for health care services, homker makes it easy for users to provide health care services without having to leave the house. Users also able to make an appointment with a provider that is available on the homker service.
+            </p>
+            <p>
+                Current responsibilities:
+                <ul>
+                    <li>Develop backend REST API using <a href="https://laravel.com/">Laravel</a> framework for mobile apps and web portal.</li>
+                </ul>
+            </p>
+        `,
+        image    : './img/timeline/homker.jpg',
+        iconImage: './img/timeline/homker-icon.png',
+      },
+      {
+        year : '2020 - Present',
+        title: 'Dotdotread (Freelance)',
+        html : `
+            <p>
+                Current status: <span class="orange--text lighten-1">Development on Progress</span>
+            </p>
+            <p>
+                <a href="https://dotdotread.com/">Dotdotread</a> is a platform for busy book lovers. Dotdotread goal is to summarize the content of the book objectively, so that readers can absorb the key points of the book in the least time.
+            </p>
+            <p>
+                Current responsibilities:
+                <ul>
+                    <li>Develop backend REST API using <a href="https://nestjs.com/">NestJS</a> framework for mobile apps and web portal.</li>
+                </ul>
+            </p>
+        `,
+        image    : './img/timeline/ddr.jpg',
+        iconImage: './img/timeline/ddr-icon.png',
       },
     ],
   }),
