@@ -513,7 +513,7 @@ export default {
         iconImage: './img/timeline/mindo-icon.png',
       },
       {
-        year : '2020 - 2021',
+        year : '2020 - Present',
         title: 'PT. Solusi Pembayaran Elektronik',
         html : `
           <p>
@@ -537,6 +537,24 @@ export default {
         iconImage: './img/timeline/spe-icon.png',
       },
       {
+        year : '2020',
+        title: 'Dotdotread (Freelance)',
+        html : `
+            <p>
+                <a href="https://dotdotread.com/">Dotdotread</a> is a platform for busy book lovers. Dotdotread goal is to summarize the content of the book objectively, so that readers can absorb the key points of the book in the least time.
+            </p>
+            <p>
+                Responsibilities:
+                <ul>
+                    <li>Develop backend REST API using <a href="https://nestjs.com/">NestJS</a> framework for mobile apps and web portal.</li>
+                    <li>Configure <a href="https://magento.com/">magento2</a> with <a href="https://www.vuestorefront.io/">vue-storefront</a>vue-storefront to be used as e-commerce platform with <a href="https://docker.com/">Docker</a> for containerization.</li>
+                </ul>
+            </p>
+        `,
+        image    : './img/timeline/ddr.jpg',
+        iconImage: './img/timeline/ddr-icon.png',
+      },
+      {
         year : '2020 - Present',
         title: 'Homker (Freelance)',
         html : `
@@ -555,26 +573,6 @@ export default {
         `,
         image    : './img/timeline/homker.jpg',
         iconImage: './img/timeline/homker-icon.png',
-      },
-      {
-        year : '2020 - Present',
-        title: 'Dotdotread (Freelance)',
-        html : `
-            <p>
-                Current status: <span class="orange--text lighten-1">Development on Progress</span>
-            </p>
-            <p>
-                <a href="https://dotdotread.com/">Dotdotread</a> is a platform for busy book lovers. Dotdotread goal is to summarize the content of the book objectively, so that readers can absorb the key points of the book in the least time.
-            </p>
-            <p>
-                Current responsibilities:
-                <ul>
-                    <li>Develop backend REST API using <a href="https://nestjs.com/">NestJS</a> framework for mobile apps and web portal.</li>
-                </ul>
-            </p>
-        `,
-        image    : './img/timeline/ddr.jpg',
-        iconImage: './img/timeline/ddr-icon.png',
       },
     ],
   }),

@@ -107,9 +107,9 @@ export default {
               link: 'https://linkedin.com/in/sahyung',
             },
             {
-              icon: 'mdi-instagram',
-              text: 'instagram.com/sa_hyung',
-              link: 'https://instagram.com/sa_hyung',
+              icon: 'mdi-telegram',
+              text: 'telegram.com/sahyung',
+              link: 'https://t.me/sahyung',
             },
           ],
         },
