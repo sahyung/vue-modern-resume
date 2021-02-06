@@ -210,7 +210,7 @@ export default {
         value: 46,
       },
       {
-        title: 'Continuous Integration/Continuous Delivery',
+        title: 'CI/CD',
         icon : 'mdi-truck-fast',
         value: 52,
       },
@@ -221,6 +221,16 @@ export default {
       },
       { divider: true },
       {
+        title: 'Docker / Containerization',
+        icon : 'mdi-docker',
+        value: 53,
+      },
+      {
+        title: 'Kubernetes',
+        icon : 'mdi-kubernetes',
+        value: 20,
+      },
+      {
         title: 'Hardware Development',
         icon : 'mdi-chip',
         value: 29,
@@ -229,16 +239,6 @@ export default {
         title: 'C/C++',
         icon : 'mdi-language-cpp',
         value: 48,
-      },
-      {
-        title: 'Docker / Containerization',
-        icon : 'mdi-docker',
-        value: 30,
-      },
-      {
-        title: 'Kubernetes',
-        icon : 'mdi-kubernetes',
-        value: 20,
       },
       { divider: true },
     ],

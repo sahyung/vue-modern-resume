@@ -513,33 +513,11 @@ export default {
         iconImage: './img/timeline/mindo-icon.png',
       },
       {
-        year : '2020 - Present',
-        title: 'PT. Solusi Pembayaran Elektronik',
-        html : `
-          <p>
-              Current status: <span class="orange--text lighten-1">6 months contract until March 2021</span>
-          </p>
-            <p>
-                <a href="https://spesolution.com/">SPE</a> is a company who provide financial management technology platform solutions for modern business.
-            </p>
-            <p>
-                SPE provides high end solutions to enhance its client technology systems. Based on its experience and knowledge in Financial Technology (FinTech) fields for more than 6 years, SPE helped its clients build end-to-end financial technology solutions. SPE has specialists in the field of payment solutions development and management, payment gateways, e-commerce, switching, chain management systems, smart community, gamification, and also merchant management.
-            </p>
-            <p>
-                Current responsibilities:
-                <ul>
-                  <li>Maintain Back Office Web Portal and Services.</li>
-                  <li>Use <a href="https://www.yiiframework.com/">Yii2 Framework</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a>, and <a href="https://docker.com/">Docker</a> for orchestration</li>
-                </ul>
-            </p>
-        `,
-        image    : './img/timeline/spe.jpg',
-        iconImage: './img/timeline/spe-icon.png',
-      },
-      {
-        year : '2020',
-        title: 'Dotdotread (Freelance)',
-        html : `
+        transparent: true,
+        detailed   : true,
+        year       : '2020',
+        title      : 'Dotdotread (Freelance)',
+        html       : `
             <p>
                 <a href="https://dotdotread.com/">Dotdotread</a> is a platform for busy book lovers. Dotdotread goal is to summarize the content of the book objectively, so that readers can absorb the key points of the book in the least time.
             </p>
@@ -548,6 +526,13 @@ export default {
                 <ul>
                     <li>Develop backend REST API using <a href="https://nestjs.com/">NestJS</a> framework for mobile apps and web portal.</li>
                     <li>Configure <a href="https://magento.com/">magento2</a> with <a href="https://www.vuestorefront.io/">vue-storefront</a>vue-storefront to be used as e-commerce platform with <a href="https://docker.com/">Docker</a> for containerization.</li>
+                </ul>
+            </p>
+            <p>
+                Delivered Projects:
+                <ul>
+                  <li><a href="https://apps.apple.com/hk/app/%E9%BB%9E%E9%BB%9E%E9%96%B1/id1465637208?l=en">點點閱: 15分鐘書本撮‪要‬</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=gogoyuedu.book.job.news.learn.read">點點閱</a></li>
                 </ul>
             </p>
         `,
@@ -573,6 +558,30 @@ export default {
         `,
         image    : './img/timeline/homker.jpg',
         iconImage: './img/timeline/homker-icon.png',
+      },
+      {
+        year : '2020 - Present',
+        title: 'PT. Solusi Pembayaran Elektronik',
+        html : `
+          <p>
+              Current status: <span class="orange--text lighten-1">6 months contract until March 2021</span>
+          </p>
+            <p>
+                <a href="https://spesolution.com/">SPE</a> is a company who provide financial management technology platform solutions for modern business.
+            </p>
+            <p>
+                SPE provides high end solutions to enhance its client technology systems. Based on its experience and knowledge in Financial Technology (FinTech) fields for more than 6 years, SPE helped its clients build end-to-end financial technology solutions. SPE has specialists in the field of payment solutions development and management, payment gateways, e-commerce, switching, chain management systems, smart community, gamification, and also merchant management.
+            </p>
+            <p>
+                Current responsibilities:
+                <ul>
+                  <li>Maintain Back Office Web Portal and Services.</li>
+                  <li>Use <a href="https://www.yiiframework.com/">Yii2 Framework</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a>, and <a href="https://docker.com/">Docker</a> for orchestration</li>
+                </ul>
+            </p>
+        `,
+        image    : './img/timeline/spe.jpg',
+        iconImage: './img/timeline/spe-icon.png',
       },
     ],
   }),
