@@ -82,11 +82,6 @@ export default {
               text: 'ende.astro@gmail.com',
             },
             {
-              name: 'Birth Date',
-              icon: 'mdi-cake-variant',
-              text: 'August 17, 1990',
-            },
-            {
               name: 'Habitation',
               icon: 'mdi-map-marker',
               text: 'Yogyakarta, Indonesia',

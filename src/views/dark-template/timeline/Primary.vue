@@ -575,8 +575,8 @@ export default {
             <p>
                 Current responsibilities:
                 <ul>
-                  <li>Maintain Back Office Web Portal and Services.</li>
-                  <li>Use <a href="https://www.yiiframework.com/">Yii2 Framework</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a>, and <a href="https://docker.com/">Docker</a> for orchestration</li>
+                  <li>Maintain Back Office Web Portals and Services.</li>
+                  <li>Use <a href="https://golang.org/">GoLang</a>, <a href="https://www.yiiframework.com/">Yii2 Framework</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a>, and <a href="https://docker.com/">Docker</a> for orchestration</li>
                 </ul>
             </p>
         `,

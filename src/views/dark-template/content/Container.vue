@@ -179,6 +179,16 @@ export default {
         value: 75,
       },
       {
+        title: 'Yii2 Framework',
+        icon : 'mdi-language-php',
+        value: 60,
+      },
+      {
+        title: 'Golang',
+        icon : 'mdi-language-go',
+        value: 40,
+      },
+      {
         title: 'MySQL',
         icon : 'mdi-database',
         value: 75,
@@ -226,19 +236,9 @@ export default {
         value: 53,
       },
       {
-        title: 'Kubernetes',
-        icon : 'mdi-kubernetes',
-        value: 20,
-      },
-      {
         title: 'Hardware Development',
         icon : 'mdi-chip',
         value: 29,
-      },
-      {
-        title: 'C/C++',
-        icon : 'mdi-language-cpp',
-        value: 48,
       },
       { divider: true },
     ],
