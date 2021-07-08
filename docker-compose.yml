@@ -1,0 +1,8 @@
+version: "3"
+services:
+  resume:
+    build: .
+    container_name: resume
+    image: resume:1.0.0
+    ports:
+      - 8080:80/tcp
